@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello">this is E2_2</string>
+    <string name="app_name">E2_2</string>
+    <string name="hello1">change text</string>
+    <string name="app_name1">change title</string>
+    <string name="button">不点你</string>
+</resources>
